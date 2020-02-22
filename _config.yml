@@ -7,13 +7,13 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Soho Mandarin
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://michaelliangaustralia.github.io/sohomandarinnews
+url: https://tribespot.co/sohomandarinnews
 root: /sohomandarinnews
 permalink: :year/:month/:day/:title/
 permalink_defaults:
