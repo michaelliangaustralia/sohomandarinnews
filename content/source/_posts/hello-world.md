@@ -5,10 +5,6 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-
-ASDLKFJLKASDJKLFKLAJSLKDFJLKASJLKDJFLKASLKDJF
-
-
 ### Create a new post
 
 ``` bash
